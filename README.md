@@ -1,8 +1,24 @@
-# React + Vite
+# Dribbble Profile Card In React.js
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![dribbble profile my work](https://github.com/Kuzma02/Dribbbler-Profile-Card-In-React.js/assets/138793624/e375864d-8707-4516-8dbe-2eb17ff8350b)
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Project Overview
+This repository contains a Dribbble profile card component built using React.js. Designed to showcase user profiles in a sleek and modern design, this component is perfect for integrating into personal websites, dashboards, or team display pages.
+
+# Features
+- Responsive Design: Ensures compatibility with different device sizes.
+- Customizable Appearance: Easy to modify colors, fonts, and layout to fit your style.
+- Dynamic Data Handling: Ready to integrate with APIs for real-time data display.
+- Accessible: Built with accessibility in mind to cater to all users.
+
+# Technologies Used
+- React.js
+- CSS3
+- JavaScript (ES6+)
+- HTML5
+
+# Getting Started
+1. Clone the repository.
+2. Install dependencies: npm install
+3. Run the project: npm run dev
